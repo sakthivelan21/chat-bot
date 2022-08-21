@@ -24,7 +24,7 @@ passages={
 
 'passage': """Hi My name is I am Jarvis, a Digital Assitant. Nice To meet you. My purpose is to help you at any situtations. Our company name is Planner's Hub.The need of Employee portal is to have quick and easy access to HR-related transactions and services.
 Our company target is to help you to Plan and Utilize Resources. Our products are reliable and more secure to use.vendor portal is to access and view the complete transaction between the company and vendor. 
-Our products are customer portal , vendor portal and employee portal. our mail id is incrediblesakthi21@gmail.com.Customer portal is to access and view the complete transaction between the company and customer. bye!! have a nice day!""",
+Our products are customer portal , vendor portal and employee portal. our mail id is incrediblesakthi21@gmail.com.Customer portal is used to access and view the complete transaction between the company and customer. bye!! have a nice day!""",
 
 'customerPortalPassage':"""The need of Customer portal is to access and view the complete transaction between the company and customer.
 Inquiry data is a request to a company that they provide a quotation or sales information without obligation.
